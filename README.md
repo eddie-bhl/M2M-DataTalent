@@ -21,7 +21,7 @@ Each capstone is meant to be portfolio-ready and focused on demonstrating real-w
 
 | Capstone | Theme | Key skills demonstrated | Where to look |
 |---|---|---|---|
-| 📌 Capstone 1 | Data analysis & insights | EDA, cleaning, storytelling | [Capstone 1](https://github.com/eddie-bhl/M2M-DataTalent/tree/main/Capstone1-Social%20Media%20Analysis) |
+| 📌 Social Media Analysis | Data analysis & insights | EDA, cleaning, storytelling | [Capstone 1](https://github.com/eddie-bhl/M2M-DataTalent/tree/main/Capstone1-Social%20Media%20Analysis) |
 | 📌 Capstone 2 | ML modeling | Feature engineering, model training, evaluation | `./capstone-2/` |
 | 📌 Capstone 3 | Specialization | Deep learning / advanced ML / applied AI | `./capstone-3/` |
 
