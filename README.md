@@ -1,8 +1,10 @@
 # M2M DataTalent Program
 
-M2M Tech Connect’s DataTalent is described as a 16-week program supported by *UpSkill Canada* and *Government of Canada* aimed at helping transition into data-driven roles, combining self-directed learning with live support sessions. [web:1]  
-The program highlights “12 weeks of AI & ML courses (300+ hours) + 3 capstone projects,” followed by an employer-led Work-Integrated Learning (WIL) experience in the later weeks. [web:1]  
-Program link: https://m2mtechconnect.com/programs/datatalent [web:1]
+M2M Tech Connect’s DataTalent is described as a 16-week program supported by *UpSkill Canada* and *Government of Canada* aimed at helping transition into data-driven roles, combining self-directed learning with live support sessions.
+
+The program highlights “12 weeks of AI & ML courses (300+ hours) + 3 capstone projects,” followed by an employer-led Work-Integrated Learning (WIL) experience in the later weeks.  
+
+Program link: https://m2mtechconnect.com/programs/datatalent
 
 ---
 
