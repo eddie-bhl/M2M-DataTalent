@@ -76,24 +76,3 @@ Analyzes **30,000 Instagram posts** to identify **what actually drives engagemen
 * 🧩 Interactive Plotly Dash dashboard
 
 ```
-
----
-
-## 🔮 Next Steps (If This Were Production)
-
-* Tree-based regression for non-linear modeling
-* Engagement rate classification
-* Comment sentiment analysis
-* Hypothesis testing for statistical validation
-* Inclusion of content semantics and audio trends
-
----
-
-## 🚀 Why This Matters
-
-This project demonstrates the ability to:
-
-* Translate business questions into analytical workflows
-* Handle large datasets responsibly
-* Interpret weak vs strong correlations correctly
-* Communicate insights clearly to non-technical stakeholders
