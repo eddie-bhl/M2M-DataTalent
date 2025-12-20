@@ -74,5 +74,3 @@ Analyzes **30,000 Instagram posts** to identify **what actually drives engagemen
 * 📊 Exploratory visualizations
 * 📉 Correlation analysis
 * 🧩 Interactive Plotly Dash dashboard
-
-```
