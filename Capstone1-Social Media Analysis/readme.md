@@ -8,7 +8,7 @@
 
 ---
 
-## 🔍 What This Project Does (TL;DR)
+## 🔍 What This Project Does
 
 Analyzes **30,000 Instagram posts** to identify **what actually drives engagement rate**, using statistical analysis and exploratory data analysis. The project converts raw social media metrics into **clear, actionable insights** for content strategy and performance optimization.
 
